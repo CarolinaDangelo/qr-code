@@ -30,23 +30,22 @@ body {
 .main {
     max-width: 375px;
     background-color: var(--white);
-    border-radius: 1rem;
-    padding: 1rem;
-    box-shadow: 0 0 30px -18px var(--grayish-blue)
+    border-radius: 16px;
+    padding: 16px;
+    box-shadow: 0 0 30px -10px var(--grayish-blue)
 }
 
 .container {
-    max-width: 290px;
+    max-width: 292px;
 }
 
 .qr-code {
     width: 100%;
-    border-radius: .7rem;
+    border-radius: .8rem;
 }
 
 h1 {
-    padding: 0 30px 0 30px;
-    font-size: 1.3em;
+    font-size: 1.4em;
     text-align: center;
     color: var(--dark-blue)
 }
@@ -55,6 +54,6 @@ p {
     padding: 0 15px 0 15px;
     margin: 16px 0 25px 0;
     text-align: center;
-    font-size: 1em;
+    font-size: 1.1em;
     color: var(--grayish-blue);
 }
