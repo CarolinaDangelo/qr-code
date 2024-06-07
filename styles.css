@@ -32,7 +32,7 @@ body {
     background-color: var(--white);
     border-radius: 16px;
     padding: 16px;
-    box-shadow: 0 0 30px -10px var(--grayish-blue)
+    box-shadow: 0 0 30px -10px var(--grayish-blue);
 }
 
 .container {
@@ -47,7 +47,7 @@ body {
 h1 {
     font-size: 1.4em;
     text-align: center;
-    color: var(--dark-blue)
+    color: var(--dark-blue);
 }
 
 p {
